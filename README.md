@@ -19,4 +19,4 @@ I have used [Early Stage Diabetes Risk Prediction Dataset](https://www.kaggle.co
 5. Matplotlib and Seaborn as the graphing libraries
 
 ## Demo
-[Try it on my profile](http://ec2-34-215-236-233.us-west-2.compute.amazonaws.com/diabetes_risk_prediction)
+[Try it on my profile](http://ec2-52-43-46-199.us-west-2.compute.amazonaws.com/diabetes_risk_prediction)
